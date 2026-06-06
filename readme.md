@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About the Author
 
-**Vivek Kumar** is the creator and maintainer of this project. He is a **Data Scientist and Full-Stack Python Developer** with expertise in:
+**Vivek Kumar** is the creator and maintainer of this project. He is a **Economics Student and Python Learner** with experience in:
 
 - Building production-ready data applications using **Streamlit**, **Pandas**, and **Plotly**
 - Implementing advanced statistical methods (Z-scores, confidence intervals, finite population correction)
